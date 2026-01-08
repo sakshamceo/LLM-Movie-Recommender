@@ -1,0 +1,75 @@
+{
+	"info": {
+		"_postman_id": "c62b48dc-3ffc-4201-ba60-4c048531e1af",
+		"name": "Saksham Practice",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47373622",
+		"_collection_link": "https://saksham-garg-ca5afecd-6531368.postman.co/workspace/Saksham-Garg's-Workspace~2ecd95df-0e4b-4b2f-82cd-22a5659d9748/collection/47373622-c62b48dc-3ffc-4201-ba60-4c048531e1af?action=share&source=collection_link&creator=47373622"
+	},
+	"item": [
+		{
+			"name": "Register",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Profiles",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Preferences",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Watched History",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "trending",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "search",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "recommendation",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
